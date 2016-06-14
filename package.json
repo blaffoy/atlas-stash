@@ -11,13 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dancrumb/atlas-stash.git"
+    "url": "git://github.com/blaffoy/atlas-stash.git"
   },
   "keywords": [
     "stash",
     "atlassian"
   ],
-  "author": "Dan Rumney <dancrumb@gmail.com>",
+  "author": {
+    "name": "Barry Laffoy",
+    "email": "laffoyb@gmail.com"
+  },
   "license": "Public Domain",
   "readmeFilename": "README.md",
   "dependencies": {
